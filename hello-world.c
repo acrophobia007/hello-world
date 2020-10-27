@@ -8,7 +8,6 @@
 
 int main(){
 
-	printf("Hello World!");
+	printf("Hello World!"); // Printf function is in standard i/o library
 	return 0;
 }
-
